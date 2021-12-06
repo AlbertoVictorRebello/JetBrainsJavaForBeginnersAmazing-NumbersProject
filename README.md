@@ -1,4 +1,4 @@
-# JetBrainsJavaForBeginnersAmazing-NumbersProject
+# JetBrains Java For Beginners: Amazing-NumbersProject
 It is a great project developed by JetBrains powered by Hyperskill platform.
 
 
